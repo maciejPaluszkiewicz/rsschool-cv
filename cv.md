@@ -51,3 +51,18 @@ I never hesitate to ask questions to make everything clear.
   * Developed and maintained relationships with business partners.
   * Increased company income by acquisition of business opportunities in accordance with marketing strategy.
   
+### Education:
+* Codecool 04.2018 - 08.2019
+
+* Techtalks, online tutorials and webinars:
+  * JS Talk at EPAM
+  * CodiblyTechTalks JS at Codibly
+  * Accelerated ES6 Training by Maximilian Schwartzmuller
+  * React - The Complete Guide by Maximilian Schwartzmuller
+  * React with Hooks by Kaj Bialas
+  * Unit Testing in JavaScript and Jasmine by Dylan Israel
+  * Introduction to Big Data by Vladimir Bacvanski
+  
+### Languages:
+* Polish - native 
+* English - highly proficient 
