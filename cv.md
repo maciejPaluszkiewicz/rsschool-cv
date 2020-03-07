@@ -22,14 +22,14 @@ Team leading experience has improved my problem and conflict solving skills.
 I never hesitate to ask questions to make everything clear.
 
 ### Skills: 
-* :star::star::star: JavaScript ES6
-* :star::star::small_orange_diamond: React 
-* :star::small_orange_diamond::small_orange_diamond: Redux 
-* :star::star::star: GraphicDesign 
-* :star::star::small_orange_diamond: GIT 
-* :star::star::small_orange_diamond: SQL  
-* :star::small_orange_diamond::small_orange_diamond:Java
-* :star::small_orange_diamond::small_orange_diamond:Python
+* :star: :star: :star: JavaScript ES6
+* :star: :star: :small_orange_diamond: React 
+* :star: :small_orange_diamond: :small_orange_diamond: Redux 
+* :star: :star: :star: GraphicDesign 
+* :star: :star: :small_orange_diamond: GIT 
+* :star: :star: :small_orange_diamond: SQL  
+* :star: :small_orange_diamond: :small_orange_diamond: Java
+* :star: :small_orange_diamond: :small_orange_diamond: Python
 
 ### Experience:
 
