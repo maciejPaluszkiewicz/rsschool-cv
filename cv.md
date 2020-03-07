@@ -9,27 +9,27 @@
 
 ### About me:
 I am flexible and easily adaptable, full of ideas and ready to improvise if
-needed. 
+needed.   
 As a perfectionist I love to be well prepared and plan everything
 before starting working on a project, to eliminate as many surprises as
-possible. 
+possible.  
 My main strengths are creativity and aesthetic skills, I have
 lots of hobbies and many of them are connected to artistic talent and
-handicrafts. 
+handicrafts.  
 I like to work with people, as a supportive and friendly team mate,
-also as a fast-growing mentee. 
-Team leading experience has improved my problem and conflict solving skills. 
+also as a fast-growing mentee.    
+Team leading experience has improved my problem and conflict solving skills.    
 I never hesitate to ask questions to make everything clear.
 
 ### Skills: 
-* :star: :star: :star: JavaScript ES6
-* :star: :star: :small_orange_diamond: React 
-* :star: :small_orange_diamond: :small_orange_diamond: Redux 
-* :star: :star: :star: GraphicDesign 
-* :star: :star: :small_orange_diamond: GIT 
-* :star: :star: :small_orange_diamond: SQL  
-* :star: :small_orange_diamond: :small_orange_diamond: Java
-* :star: :small_orange_diamond: :small_orange_diamond: Python
+ &#9733; &#9733; &#9733;  JavaScript ES6   
+ &#9733; &#9733; &#9734;  React   
+ &#9733; &#9734; &#9734;  Redux   
+ &#9733; &#9733; &#9733;  GraphicDesign   
+ &#9733; &#9733; &#9734;  GIT   
+ &#9733; &#9733; &#9734;  SQL    
+ &#9733; &#9734; &#9734;  Java  
+ &#9733; &#9734; &#9734;  Python  
 
 ### Experience:
 
