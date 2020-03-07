@@ -1,2 +1,2 @@
 # rsschool-cv
-Rolling Scopes CV
+https://maciejpaluszkiewicz.github.io/rsschool-cv/cv
