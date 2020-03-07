@@ -9,10 +9,45 @@
 
 ### About me:
 I am flexible and easily adaptable, full of ideas and ready to improvise if
-needed. As a perfectionist I love to be well prepared and plan everything
+needed. 
+As a perfectionist I love to be well prepared and plan everything
 before starting working on a project, to eliminate as many surprises as
-possible. My main strengths are creativity and aesthetic skills, I have
+possible. 
+My main strengths are creativity and aesthetic skills, I have
 lots of hobbies and many of them are connected to artistic talent and
-handicrafts. I like to work with people, as a supportive and friendly team mate,
-also as a fast-growing mentee. Team leading experience has improved
-my problem and conflict solving skills. I never hesitate to ask questions to make everything clear.
+handicrafts. 
+I like to work with people, as a supportive and friendly team mate,
+also as a fast-growing mentee. 
+Team leading experience has improved my problem and conflict solving skills. 
+I never hesitate to ask questions to make everything clear.
+
+### Skills: 
+* :star::star::star: JavaScript ES6
+* :star::star::small_orange_diamond: React 
+* :star::small_orange_diamond::small_orange_diamond: Redux 
+* :star::star::star: GraphicDesign 
+* :star::star::small_orange_diamond: GIT 
+* :star::star::small_orange_diamond: SQL  
+* :star::small_orange_diamond::small_orange_diamond:Java
+* :star::small_orange_diamond::small_orange_diamond:Python
+
+### Experience:
+
+* **Junior software developer - Codecool (from 2018)**
+  * Used React and Redux to implement single page applications.
+  * Developed and maintained internal company software projects.
+  * Gained knowledge about modern frontend technologies.
+  * Collaborated with development team in agile environment.
+  * Played mentor role for beginner programmers.
+  
+* **Graphic designer (2016-2017)**
+  * Created graphic design materials based on briefs provided.
+  * Produced leaflets, brochures, banners.
+  * Designed free hand drawing artwork solutions.
+  
+* **Air freight sales executive (2006-2016)**
+  * Negotiated trade agreements with companies.
+  * Optimized customers’ supply chains on international market.
+  * Developed and maintained relationships with business partners.
+  * Increased company income by acquisition of business opportunities in accordance with marketing strategy.
+  
